@@ -1,0 +1,1535 @@
+# sent_id = data_UD-third_apple_2-x17-s1
+# text = የምትሄድ ከሆነ ይህን መጽሐፍ መልስልኝ ።
+1-4	የምትሄድ	_	_	_	_	_	_	_	_
+1	የ	የ	PART	RLP	_	4	mark	_	_
+2	እም	እም	PART	IRLP	_	4	nsubj	_	_
+3	ት	ት	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	4	nsubj	_	_
+4	ሄድ	ሄድ	VERB	VERB	Aspect=Imp	11	advcl	_	_
+5-7	ከሆነ	_	_	_	_	_	_	_	_
+5	ከ	ከ	SCONJ	SCONJ	_	4	mark	_	_
+6	ሆን	ሆን	AUX	AUX	_	4	aux	_	_
+7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	_
+8-9	ይህን	_	_	_	_	_	_	_	_
+8	ይህ	ይህ	DET	DET	_	10	det	_	_
+9	ን	ን	PART	ACC	_	10	case	_	_
+10	መጽሐፍ	መጽሐፍ	NOUN	NOUN	Number=Sing	11	obj	_	_
+11-13	መልስልኝ	_	_	_	_	_	_	_	_
+11	መልስ	መልስ	VERB	VERB	Mood=Jus	0	root	_	_
+12	ል	ል	ADP	ADP	Case=Ben	11	case	_	_
+13	ኝ	ኝ	PRON	OBJC	Number=Sing|Person=1	11	iobj	_	_
+14	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = data_UD-x19-s9
+# text = ውሸታቸውን ነው ።
+1-3	ውሸታቸውን	_	_	_	_	_	_	_	_
+1	ውሸት	ውሸት	NOUN	NOUN	Number=Sing	0	root	_	_
+2	ኣቸው	ኣቸው	PRON	POSM	Number=Plur|Person=3|Poss=Yes	1	nmod	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4-5	ነው	_	_	_	_	_	_	_	_
+4	ን	ን	AUX	AUX	Tense=Pres	1	cop	_	_
+5	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	1	nsubj	_	_
+6	።	።	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x13-s10
+# text = አስተማሪው ለተማሪዎች ስጦታ ሰጣቸው ።
+1-2	አስተማሪው	_	_	_	_	_	_	_	_
+1	አስተማሪ	አስተማሪ	NOUN	NOUN	Number=Sing	6	nsubj	_	_
+2	ው	ው	DET	DET	_	1	det	_	_
+3-4	ለተማሪዎች	_	_	_	_	_	_	_	_
+3	ለ	ለ	ADP	ADP	_	4	case	_	_
+4	ተማሪዎች	ተማሪዎች	NOUN	NOUN	Number=Sing	6	obl	_	_
+5	ስጦታ	ስጦታ	NOUN	NOUN	Number=Sing	6	obj	_	_
+6-8	ሰጣቸው	_	_	_	_	_	_	_	_
+6	ሰጥ	ሰጥ	VERB	VERB	Aspect=Perf	0	root	_	_
+7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
+8	ኣቸው	ኣቸው	PRON	OBJC	Number=Plur|Person=3	6	expl	_	_
+9	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x00-s19
+# text = በሽርሽር ላይ ሆነን ቢዘንብስ ?
+1-2	በሽርሽር	_	_	_	_	_	_	_	_
+1	በ	በ	ADP	ADP	_	2	case	_	_
+2	ሽርሽር	ሽርሽር	NOUN	NOUN	Number=Sing	4	obl	_	_
+3	ላይ	ላይ	ADP	ADP	_	2	case	_	_
+4-6	ሆነን	_	_	_	_	_	_	_	_
+4	ሆን	ሆን	VERB	VERB	Aspect=Perf	9	advcl	_	_
+5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+6	ን	ን	PRON	OBJC	Number=Plur|Person=1	4	expl	_	_
+7-10	ቢዘንብስ	_	_	_	_	_	_	_	_
+7	ብ	ብ	SCONJ	SCONJ	_	9	mark	_	_
+8	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
+9	ዘንብ	ዘንብ	VERB	VERB	Aspect=Imp	0	root	_	_
+10	ስ	ስ	INTJ	INTJ	_	9	discourse	_	_
+11	?	?	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = data_UD-x17-s15
+# text = እሱም የክበባችን አባል ነው ።
+1-2	እሱም	_	_	_	_	_	_	_	_
+1	እርሱ	እርሱ	PRON	PRON	_	6	nsubj	_	_
+2	ም	ም	CCONJ	CCONJ	_	1	cc	_	_
+3-5	የክበባችን	_	_	_	_	_	_	_	_
+3	የ	የ	ADP	ADP	_	4	case	_	_
+4	ክበብ	ክበብ	NOUN	NOUN	Number=Sing	6	nmod	_	_
+5	ኣችን	ኣችን	PRON	POSM	Number=Plur|Person=1|Poss=Yes	4	nmod	_	_
+6	አባል	አባል	NOUN	NOUN	Number=Sing	0	root	_	_
+7-8	ነው	_	_	_	_	_	_	_	_
+7	ን	ን	AUX	AUX	Tense=Pres	6	cop	_	_
+8	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	6	expl	_	_
+9	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x01-s3
+# text = መታመሙን እንደነገረኝ መጣሁ ።
+1-3	መታመሙን	_	_	_	_	_	_	_	_
+1	መታመም	መታመም	NOUN	NOUN	VerbForm=Inf	5	xcomp	_	_
+2	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	1	nmod	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4-7	እንደነገረኝ	_	_	_	_	_	_	_	_
+4	እንደ	እንደ	SCONJ	SCONJ	_	5	mark	_	_
+5	ነገር	ነገር	VERB	VERB	Aspect=Perf	8	advcl	_	_
+6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+7	ኝ	ኝ	PRON	OBJC	Number=Sing|Person=1	5	obj	_	_
+8-9	መጣሁ	_	_	_	_	_	_	_	_
+8	መጣ	መጣ	VERB	VERB	Aspect=Perf	0	root	_	_
+9	ሁ	ሁ	PRON	SUBJC	Number=Sing|Person=1	8	nsubj	_	_
+10	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = data_UD-x17-s1
+# text = የሚያምህ እንደሆነ ወደ ሐኪም ሂድ ።
+1-5	የሚያምህ	_	_	_	_	_	_	_	_
+1	የ	የ	PART	RLP	_	4	mark	_	_
+2	እም	እም	PART	IRLP	_	4	mark	_	_
+3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	_
+4	ኣም	ኣም	VERB	VERB	Aspect=Imp	11	advcl	_	_
+5	ህ	ህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	4	nsubj	_	_
+6-8	እንደሆነ	_	_	_	_	_	_	_	_
+6	እንደ	እንደ	SCONJ	SCONJ	_	4	mark	_	_
+7	ሆን	ሆን	AUX	AUX	_	4	aux	_	_
+8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+9	ወደ	ወደ	ADP	ADP	_	10	case	_	_
+10	ሐኪም	ሐኪም	NOUN	NOUN	Number=Sing	11	obl	_	_
+11	ሂድ	ሂድ	VERB	VERB	Mood=Jus	0	root	_	_
+12	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x09-s4
+# text = ካሳ አልማዝን መፅሐፍ አስሸለማት ።
+1	ካሳ	ካሳ	PROPN	PROPN	_	5	nsubj	_	_
+2-3	አልማዝን	_	_	_	_	_	_	_	_
+2	አልማዝ	አልማዝ	PROPN	PROPN	_	5	iobj	_	_
+3	ን	ን	PART	ACC	_	2	case	_	_
+4	መፅሐፍ	መፅሐፍ	NOUN	NOUN	Number=Sing	5	obj	_	_
+5-7	አስሸለማት	_	_	_	_	_	_	_	_
+5	አስሸለም	አስሸለም	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
+6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	expl	_	_
+7	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	5	expl	_	_
+8	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x12-s2
+# text = መምህሩ ተማሪዎቹን ተሰለፉ አላቸው ።
+1-2	መምህሩ	_	_	_	_	_	_	_	_
+1	መምህር	መምህር	NOUN	NOUN	Number=Sing	8	nsubj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3-5	ተማሪዎቹን	_	_	_	_	_	_	_	_
+3	ተማሪዎች	ተማሪዎች	NOUN	NOUN	Number=Plur	6	nsubj	_	_
+4	ኡ	ኡ	DET	DET	_	3	det	_	_
+5	ን	ን	PART	ACC	_	3	case	_	_
+6-7	ተሰለፉ	_	_	_	_	_	_	_	_
+6	ተሰለፍ	ተሰለፍ	VERB	VERB	Aspect=Perf|Voice=Pass	8	ccomp	_	_
+7	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	6	nsubj	_	_
+8-10	አላቸው	_	_	_	_	_	_	_	_
+8	አላ	አላ	VERB	VERB	Aspect=Perf	0	root	_	_
+9	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
+10	ኣቸው	ኣቸው	PRON	OBJC	Number=Plur|Person=3	8	expl	_	_
+11	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x04-s18
+# text = ካሳ ሚስቱን ሸኘ ።
+1	ካሳ	ካሳ	PROPN	PROPN	_	5	nsubj	_	_
+2-4	ሚስቱን	_	_	_	_	_	_	_	_
+2	ሚስት	ሚስት	NOUN	NOUN	Number=Sing	5	obj	_	_
+3	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	2	nmod	_	_
+4	ን	ን	PART	ACC	_	2	case	_	_
+5-6	ሸኘ	_	_	_	_	_	_	_	_
+5	ሸኝ	ሸኝ	VERB	VERB	Aspect=Perf	0	root	_	_
+6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	expl	_	_
+7	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x23-s10
+# text = ቀዳዳውን መወተፊያ ቡትቶ ፈልጊ ።
+1-3	ቀዳዳውን	_	_	_	_	_	_	_	_
+1	ቀዳዳ	ቀዳዳ	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	ው	ው	DET	DET	_	1	det	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4	መወተፊያ	መወተፊያ	NOUN	NOUN	VerbForm=Inf	6	xcomp	_	_
+5	ቡትቶ	ቡትቶ	NOUN	NOUN	Number=Sing	6	obj	_	_
+6-7	ፈልጊ	_	_	_	_	_	_	_	_
+6	ፈልግ	ፈልግ	VERB	VERB	Aspect=Imp	0	root	_	_
+7	ኢ	ኢ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=2	6	nsubj	_	_
+8	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-x02-s4
+# text = ይህን ያህል ባይሰራ ይሻለው ነበር ።
+1	ይህን	ይህን	DET	DET	_	2	det	_	_
+2	ያህል	ያህል	ADJ	ADJ	_	6	obj	_	_
+3-6	ባይሰራ	_	_	_	_	_	_	_	_
+3	ብ	ብ	SCONJ	SCONJ	_	6	mark	_	_
+4	ኣል	ኣል	PART	NEG	Polarity=Neg	6	advmod	_	_
+5	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
+6	ሰራ	ሰራ	VERB	VERB	Aspect=Imp	8	ccomp	_	_
+7-9	ይሻለው	_	_	_	_	_	_	_	_
+7	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
+8	ተሻል	ተሻል	VERB	VERB	Aspect=Imp|Voice=Pass	0	root	_	_
+9	ኧው	ኧው	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	expl	_	_
+10	ነበር	ነበር	AUX	AUX	Tense=Past	8	aux	_	_
+11	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x10-s12
+# text = ካሳ ወደከተማ ሄዶ ፣ ልብስ ገዝቶ ፣ ተመለሰ ።
+1	ካሳ	ካሳ	PROPN	PROPN	_	4	nsubj	_	_
+2-3	ወደከተማ	_	_	_	_	_	_	_	_
+2	ወደ	ወደ	ADP	ADP	Case=Loc	3	case	_	_
+3	ከተማ	ከተማ	NOUN	NOUN	Number=Sing	4	obl	_	_
+4-5	ሄዶ	_	_	_	_	_	_	_	_
+4	ሄድ	ሄድ	VERB	VERB	VerbForm=Conv	8	compound:svc	_	_
+5	ኦ	ኦ	PRON	SUBCC	Gender=Masc|Number=Sing|Person=3	4	expl	_	_
+6	፣	፣	PUNCT	PUNCT	_	7	punct	_	_
+7	ልብስ	ልብስ	NOUN	NOUN	Number=Sing	8	obj	_	_
+8-9	ገዝቶ	_	_	_	_	_	_	_	_
+8	ገዝት	ገዝት	VERB	VERB	VerbForm=Conv	11	compound:svc	_	_
+9	ኦ	ኦ	PRON	SUBCC	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
+10	፣	፣	PUNCT	PUNCT	_	11	punct	_	_
+11-12	ተመለሰ	_	_	_	_	_	_	_	_
+11	ተመለስ	ተመለስ	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
+12	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
+13	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = data_UD-x03-s12
+# text = አልማዝ እንቅልፍ ወሰዳት ።
+1	አልማዝ	አልማዝ	PROPN	PROPN	_	3	nsubj	_	_
+2	እንቅልፍ	እንቅልፍ	NOUN	NOUN	Number=Sing	3	obj	_	_
+3-5	ወሰዳት	_	_	_	_	_	_	_	_
+3	ወሰድ	ወሰድ	VERB	VERB	Aspect=Perf	0	root	_	_
+4	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+5	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	3	expl	_	_
+6	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-Sleepwalking-26-s7
+# text = ውድድሩን ማሸነፉ አስደሰተው ።
+1-3	ውድድሩን	_	_	_	_	_	_	_	_
+1	ውድድር	ውድድር	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4-5	ማሸነፉ	_	_	_	_	_	_	_	_
+4	ማሸነፍ	ማሸነፍ	NOUN	NOUN	VerbForm=Inf	6	nsubj	_	_
+5	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	det	_	_
+6-8	አስደሰተው	_	_	_	_	_	_	_	_
+6	አስደሰት	አስደሰት	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
+7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
+8	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	6	obj	_	_
+9	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-Sleepwalking-x04-s2
+# text = ካሳ ልብስ ተኮሰ ።
+1	ካሳ	ካሳ	PROPN	PROPN	_	3	nsubj	_	_
+2	ልብስ	ልብስ	NOUN	NOUN	Number=Sing	3	obj	_	_
+3-4	ተኮሰ	_	_	_	_	_	_	_	_
+3	ተኮስ	ተኮስ	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
+4	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-x07-s16
+# text = ገንዘቡ ለአልማዝ ተሸለመ ።
+1-2	ገንዘቡ	_	_	_	_	_	_	_	_
+1	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	5	nsubj:pass	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3-4	ለአልማዝ	_	_	_	_	_	_	_	_
+3	ለ	ለ	ADP	ADP	_	4	case	_	_
+4	አልማዝ	አልማዝ	PROPN	PROPN	_	5	obl	_	_
+5-6	ተሸለመ	_	_	_	_	_	_	_	_
+5	ተሸለም	ተሸለም	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
+6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	expl	_	_
+7	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x29-s9
+# text = ልብሱን አስወሰደው ።
+1-3	ልብሱን	_	_	_	_	_	_	_	_
+1	ልብስ	ልብስ	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	1	nmod	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4-6	አስወሰደው	_	_	_	_	_	_	_	_
+4	አስወሰድ	አስወሰድ	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
+5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+6	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	_
+7	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x19-s7
+# text = ጥሩ ሞትን ሞተ ።
+1	ጥሩ	ጥሩ	ADJ	ADJ	_	2	amod	_	_
+2-3	ሞትን	_	_	_	_	_	_	_	_
+2	ሞት	ሞት	NOUN	NOUN	Number=Sing	4	obj	_	_
+3	ን	ን	PART	ACC	_	2	case	_	_
+4-5	ሞተ	_	_	_	_	_	_	_	_
+4	ሞት	ሞት	VERB	VERB	Aspect=Perf	0	root	_	_
+5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-x19-s12
+# text = መንገድ ሲያቋርጡ ልጁን እጁን ያዘችው ።
+1	መንገድ	መንገድ	NOUN	NOUN	Number=Sing	4	obj	_	_
+2-5	ሲያቋርጡ	_	_	_	_	_	_	_	_
+2	ስ	ስ	SCONJ	SCONJ	_	4	mark	_	_
+3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	_
+4	ኣቋርጥ	ኣቋርጥ	VERB	VERB	Aspect=Imp|Voice=Trans	12	advcl	_	_
+5	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	4	expl	_	_
+6-8	ልጁን	_	_	_	_	_	_	_	_
+6	ልጅ	ልጅ	NOUN	NOUN	Number=Sing	12	obj	_	_
+7	ኡ	ኡ	DET	DET	_	6	det	_	_
+8	ን	ን	PART	ACC	_	6	case	_	_
+9-11	እጁን	_	_	_	_	_	_	_	_
+9	እጅ	እጅ	NOUN	NOUN	Number=Sing	6	nmod	_	_
+10	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	9	nmod	_	_
+11	ን	ን	PART	ACC	_	9	case	_	_
+12-14	ያዘችው	_	_	_	_	_	_	_	_
+12	ያዝ	ያዝ	VERB	VERB	Aspect=Perf	0	root	_	_
+13	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	12	nsubj	_	_
+14	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	12	expl	_	_
+15	።	።	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x15-s10
+# text = ልብስ እጠብ !
+1	ልብስ	ልብስ	NOUN	NOUN	Number=Sing	3	obj	_	_
+2-3	እጠብ	_	_	_	_	_	_	_	_
+2	እ	እ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	3	nsubj	_	_
+3	ጠብ	ጠብ	VERB	VERB	Mood=Jus	0	root	_	_
+4	!	!	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-Sleepwalking-26-s10
+# text = ጠጅ አስቀመስኩት ።
+1	ጠጅ	ጠጅ	NOUN	NOUN	Number=Sing	2	iobj	_	_
+2-4	አስቀመስኩት	_	_	_	_	_	_	_	_
+2	አስቀመስ	አስቀመስ	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
+3	ኩ	ኩ	PRON	SUBJC	Number=Sing|Person=1	2	nsubj	_	_
+4	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	2	obj	_	_
+5	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = data_UD-x17-s9
+# text = ከበደ የናቱን ሞት ተረዳ ።
+1	ከበደ	ከበደ	PROPN	PROPN	_	7	nsubj	_	_
+2-5	የናቱን	_	_	_	_	_	_	_	_
+2	የ	የ	ADP	ADP	_	3	case	_	_
+3	እናት	እናት	NOUN	NOUN	Number=Sing	6	nmod	_	_
+4	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	nmod	_	_
+5	ን	ን	PART	ACC	_	3	case	_	_
+6	ሞት	ሞት	NOUN	NOUN	Number=Sing	7	obj	_	_
+7-8	ተረዳ	_	_	_	_	_	_	_	_
+7	ተረዳ	ተረዳ	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
+8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	_
+9	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x11-s7
+# text = ባሥር ደቂቃ ውስጥ እመጣለሁ አለ ።
+1-2	ባሥር	_	_	_	_	_	_	_	_
+1	በ	በ	ADP	ADP	_	3	case	_	_
+2	ኣስር	ኣስር	NUM	NUM	_	3	nummod	_	_
+3	ደቂቃ	ደቂቃ	NOUN	NOUN	Number=Sing	6	obl	_	_
+4	ውስጥ	ውስጥ	ADP	ADP	_	3	case	_	_
+5-8	እመጣለሁ	_	_	_	_	_	_	_	_
+5	እ	እ	PRON	SUBJC	Number=Sing|Person=1	6	nsubj	_	_
+6	መጣ	መጣ	VERB	VERB	Aspect=Imp	9	ccomp	_	_
+7	ኣል	ኣል	AUX	AUX	Tense=Pres	6	aux	_	_
+8	ኧሁ	ኧሁ	PRON	SUBJC	Number=Sing|Person=1	6	nsubj	_	_
+9-10	አለ	_	_	_	_	_	_	_	_
+9	አል	አል	VERB	VERB	Aspect=Perf	0	root	_	_
+10	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
+11	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = data_UD-x14-s14
+# text = ይህ መርዝ ገድሎት ይሆናል ።
+1	ይህ	ይህ	DET	DET	_	2	det	_	_
+2	መርዝ	መርዝ	NOUN	NOUN	Number=Sing	3	nsubj	_	_
+3-5	ገድሎት	_	_	_	_	_	_	_	_
+3	ገድል	ገድል	VERB	VERB	VerbForm=Conv	0	root	_	_
+4	ኦ	ኦ	PRON	SUBCC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+5	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+6-8	ይሆናል	_	_	_	_	_	_	_	_
+6	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+7	ሆን	ሆን	AUX	AUX	_	3	aux	_	_
+8	ኣል	ኣል	AUX	AUX	Tense=Pres	3	aux	_	_
+9	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x22-s3
+# text = ብዙ ጨኸት ከመኖሩ የተነሣ ሊተኙ አልቻሉም ።
+1	ብዙ	ብዙ	ADJ	ADJ	_	2	amod	_	_
+2	ጨኸት	ጨኸት	NOUN	NOUN	Number=Sing	4	nsubj	_	_
+3-5	ከመኖሩ	_	_	_	_	_	_	_	_
+3	ከ	ከ	ADP	ADP	_	4	case	_	_
+4	መኖር	መኖር	NOUN	NOUN	VerbForm=Inf	7	advcl	_	_
+5	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	4	nmod	_	_
+6-7	የተነሣ	_	_	_	_	_	_	_	_
+6	የ	የ	SCONJ	SCONJ	_	7	mark	_	_
+7	ተነሣ	ተነሣ	VERB	VERB	Aspect=Perf	10	advcl	_	_
+8-11	ሊተኙ	_	_	_	_	_	_	_	_
+8	ል	ል	SCONJ	SCONJ	_	10	mark	_	_
+9	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
+10	ተኝ	ተኝ	VERB	VERB	Aspect=Imp	13	xcomp	_	_
+11	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	10	nsubj	_	_
+12-15	አልቻሉም	_	_	_	_	_	_	_	_
+12	ኣል	ኣል	PART	NEG	Polarity=Neg	13	advmod	_	_
+13	ቻል	ቻል	VERB	VERB	Aspect=Perf	0	root	_	_
+14	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	13	nsubj	_	_
+15	ም	ም	PART	NCM	_	13	discourse	_	_
+16	።	።	PUNCT	PUNCT	_	13	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x04-s6
+# text = አልማዝ ተስፋ ቆረጠች ።
+1	አልማዝ	አልማዝ	PROPN	PROPN	_	3	nsubj	_	_
+2	ተስፋ	ተስፋ	NOUN	NOUN	Number=Sing	3	obj	_	_
+3-4	ቆረጠች	_	_	_	_	_	_	_	_
+3	ቆረጥ	ቆረጥ	VERB	VERB	Aspect=Perf	0	root	_	_
+4	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	3	expl	_	_
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-x02-s15
+# text = ውሃው ቀዘቀዘ ።
+1-2	ውሃው	_	_	_	_	_	_	_	_
+1	ውሃ	ውሃ	NOUN	NOUN	Number=Sing	3	nsubj	_	_
+2	ው	ው	DET	DET	_	1	det	_	_
+3-4	ቀዘቀዘ	_	_	_	_	_	_	_	_
+3	ቀዘቀዝ	ቀዘቀዝ	VERB	VERB	Aspect=Perf	0	root	_	_
+4	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x06-s20
+# text = ያገኘው የተመኘውን ነው ።
+1-3	ያገኘው	_	_	_	_	_	_	_	_
+1	የ	የ	PART	RLP	_	2	mark	_	_
+2	ኣገኘ	ኣገኘ	VERB	VERB	Aspect=Perf	0	root	_	_
+3	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+4-8	የተመኘውን	_	_	_	_	_	_	_	_
+4	የ	የ	PART	RLP	_	5	mark	_	_
+5	ተመኝ	ተመኝ	VERB	VERB	Aspect=Perf|Voice=Pass	2	ccomp	_	_
+6	ኧ	ኧ	DET	DET	_	5	nsubj	_	_
+7	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	5	obj	_	_
+8	ን	ን	PART	ACC	_	5	case	_	_
+9-10	ነው	_	_	_	_	_	_	_	_
+9	ን	ን	AUX	AUX	Tense=Pres	5	cop	_	_
+10	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	5	expl	_	_
+11	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x09-s10
+# text = ልብሱን አስቆረጠ ።
+1-3	ልብሱን	_	_	_	_	_	_	_	_
+1	ልብስ	ልብስ	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4-5	አስቆረጠ	_	_	_	_	_	_	_	_
+4	አስቆረጥ	አስቆረጥ	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
+5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x07-s20
+# text = ልጁ ተደበቀ ።
+1-2	ልጁ	_	_	_	_	_	_	_	_
+1	ልጅ	ልጅ	NOUN	NOUN	Number=Sing	3	nsubj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3-4	ተደበቀ	_	_	_	_	_	_	_	_
+3	ተደበቅ	ተደበቅ	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
+4	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-x09-s13
+# text = ልጁን እያስፈራሩ አስጠፉት ።
+1-3	ልጁን	_	_	_	_	_	_	_	_
+1	ልጅ	ልጅ	NOUN	NOUN	Number=Sing	6	obj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4-5	እያስፈራሩ	_	_	_	_	_	_	_	_
+4	እያስፈራር	እያስፈራር	VERB	VERB	Aspect=Perf	6	ccomp	_	_
+5	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	4	expl	_	_
+6-8	አስጠፉት	_	_	_	_	_	_	_	_
+6	አስጠፍ	አስጠፍ	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
+7	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	6	nsubj	_	_
+8	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
+9	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x17-s17
+# text = አምስቱም ተበላ ።
+1-3	አምስቱም	_	_	_	_	_	_	_	_
+1	አምስት	አምስት	NUM	NUM	_	4	nsubj:pass	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3	ም	ም	CCONJ	CCONJ	_	1	cc	_	_
+4-5	ተበላ	_	_	_	_	_	_	_	_
+4	ተበላ	ተበላ	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
+5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	_
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x05-s14
+# text = ገንዘብ አለመያዙ ገረማት ።
+1	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	3	obj	_	_
+2-4	አለመያዙ	_	_	_	_	_	_	_	_
+2	ኣለ	ኣለ	PART	NEG	Polarity=Neg	3	advmod	_	_
+3	መያዝ	መያዝ	NOUN	NOUN	VerbForm=Inf	5	ccomp	_	_
+4	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	nmod	_	_
+5-7	ገረማት	_	_	_	_	_	_	_	_
+5	ገረም	ገረም	VERB	VERB	Aspect=Perf	0	root	_	_
+6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+7	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	5	expl	_	_
+8	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = data_UD-x05-s1
+# text = ገበሬው እርሻውን ያለሰልሳል ።
+1-2	ገበሬው	_	_	_	_	_	_	_	_
+1	ገበሬ	ገበሬ	NOUN	NOUN	Number=Sing	7	nsubj	_	_
+2	ው	ው	DET	DET	_	1	det	_	_
+3-5	እርሻውን	_	_	_	_	_	_	_	_
+3	እርሻ	እርሻ	NOUN	NOUN	Number=Sing	7	obj	_	_
+4	ው	ው	DET	DET	_	3	det	_	_
+5	ን	ን	PART	ACC	_	3	case	_	_
+6-8	ያለሰልሳል	_	_	_	_	_	_	_	_
+6	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	_
+7	አለሰልስ	አለሰልስ	VERB	VERB	Aspect=Imp|Voice=Trans	0	root	_	_
+8	ኣል	ኣል	AUX	AUX	Tense=Pres	7	aux	_	_
+9	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x08-s12
+# text = ዳኛው በአስቴር ላይ ፈረዱባት ።
+1-2	ዳኛው	_	_	_	_	_	_	_	_
+1	ዳኛ	ዳኛ	NOUN	NOUN	Number=Sing	6	nsubj	_	_
+2	ው	ው	DET	DET	_	1	det	_	_
+3-4	በአስቴር	_	_	_	_	_	_	_	_
+3	በ	በ	ADP	ADP	_	4	case	_	_
+4	አስቴር	አስቴር	PROPN	PROPN	_	6	obl	_	_
+5	ላይ	ላይ	ADP	ADP	_	4	case	_	_
+6-9	ፈረዱባት	_	_	_	_	_	_	_	_
+6	ፈረድ	ፈረድ	VERB	VERB	Aspect=Perf	0	root	_	_
+7	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	6	expl	_	_
+8	ብ	ብ	ADP	ADP	Case=Mal	6	case	_	_
+9	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	6	obj	_	_
+10	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-x15-s19
+# text = ተቀመጥ እንጂ !
+1	ተቀመጥ	ተቀመጥ	VERB	VERB	Mood=Jus|Voice=Pass	0	root	_	_
+2	እንጂ	እንጂ	INTJ	INTJ	_	1	discourse	_	_
+3	!	!	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x07-s9
+# text = አልማዝ ታመመች ።
+1	አልማዝ	አልማዝ	PROPN	PROPN	_	2	nsubj	_	_
+2-3	ታመመች	_	_	_	_	_	_	_	_
+2	ታመም	ታመም	VERB	VERB	Aspect=Perf	0	root	_	_
+3	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	2	expl	_	_
+4	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x13-s8
+# text = ካሳ ንብረት ተረከበ ።
+1	ካሳ	ካሳ	PROPN	PROPN	_	3	nsubj	_	_
+2	ንብረት	ንብረት	NOUN	NOUN	Number=Sing	3	obj	_	_
+3-4	ተረከበ	_	_	_	_	_	_	_	_
+3	ተረከብ	ተረከብ	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
+4	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-x08-s1
+# text = ሰዎቹ ዕንጨት ሰበሰቡ ።
+1-2	ሰዎቹ	_	_	_	_	_	_	_	_
+1	ሰዎች	ሰዎች	NOUN	NOUN	Number=Plur	4	nsubj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3	ዕንጨት	ዕንጨት	NOUN	NOUN	Number=Sing	4	obj	_	_
+4-5	ሰበሰቡ	_	_	_	_	_	_	_	_
+4	ሰበሰብ	ሰበሰብ	VERB	VERB	Aspect=Perf	0	root	_	_
+5	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	4	expl	_	_
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x18-s11
+# text = ከኛ ጋር እንደምትቆይ መቼስ የታወቀ ነው ።
+1-2	ከኛ	_	_	_	_	_	_	_	_
+1	ከ	ከ	ADP	ADP	_	2	case	_	_
+2	እኛ	እኛ	PRON	PRON	_	7	obl	_	_
+3	ጋር	ጋር	ADP	ADP	_	2	case	_	_
+4-7	እንደምትቆይ	_	_	_	_	_	_	_	_
+4	እንደ	እንደ	SCONJ	SCONJ	_	7	mark	_	_
+5	እም	እም	PART	IRLP	_	7	mark	_	_
+6	ት	ት	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	7	nsubj	_	_
+7	ቆይ	ቆይ	VERB	VERB	Aspect=Imp	11	csubj	_	_
+8-9	መቼስ	_	_	_	_	_	_	_	_
+8	መቼ	መቼ	PRON	PRON	_	11	advmod	_	_
+9	ስ	ስ	INTJ	INTJ	_	8	discourse	_	_
+10-12	የታወቀ	_	_	_	_	_	_	_	_
+10	የ	የ	PART	RLP	_	11	mark	_	_
+11	ታወቅ	ታወቅ	VERB	VERB	Aspect=Perf	0	root	_	_
+12	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	11	expl	_	_
+13-14	ነው	_	_	_	_	_	_	_	_
+13	ን	ን	AUX	AUX	Tense=Pres	11	aux	_	_
+14	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	11	expl	_	_
+15	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = data_UD-x13-s19
+# text = ጫካው ተመንጥሮአል ።
+1-2	ጫካው	_	_	_	_	_	_	_	_
+1	ጫካ	ጫካ	NOUN	NOUN	Number=Sing	3	nsubj:pass	_	_
+2	ው	ው	DET	DET	_	1	det	_	_
+3-5	ተመንጥሮአል	_	_	_	_	_	_	_	_
+3	ተመንጥር	ተመንጥር	VERB	VERB	VerbForm=Conv|Voice=Pass	0	root	_	_
+4	ኦ	ኦ	PRON	SUBCC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+5	ኣል	ኣል	AUX	AUX	Tense=Pres	3	aux	_	_
+6	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x00-s1
+# text = ቤቱ ሊሄድ ሲል ይዘንብ ጀመረ ።
+1-2	ቤቱ	_	_	_	_	_	_	_	_
+1	ቤት	ቤት	NOUN	NOUN	Number=Sing	5	obl	_	_
+2	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	1	nmod	_	_
+3-5	ሊሄድ	_	_	_	_	_	_	_	_
+3	ል	ል	SCONJ	SCONJ	_	5	mark	_	_
+4	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+5	ሄድ	ሄድ	VERB	VERB	Aspect=Imp	6	ccomp	_	_
+6-8	ሲል	_	_	_	_	_	_	_	_
+6	ስ	ስ	SCONJ	SCONJ	_	8	mark	_	_
+7	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	expl	_	_
+8	ል	ል	VERB	VERB	Aspect=Imp	11	advcl	_	_
+9-10	ይዘንብ	_	_	_	_	_	_	_	_
+9	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
+10	ዘንብ	ዘንብ	VERB	VERB	Aspect=Imp	11	xcomp	_	_
+11-12	ጀመረ	_	_	_	_	_	_	_	_
+11	ጀመር	ጀመር	VERB	VERB	Aspect=Perf	0	root	_	_
+12	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
+13	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = data_UD-x05-s16
+# text = ለከበደ ገንዘብ ሰጠሁት ።
+1-2	ለከበደ	_	_	_	_	_	_	_	_
+1	ለ	ለ	ADP	ADP	_	2	case	_	_
+2	ከበደ	ከበደ	PROPN	PROPN	_	4	obl	_	_
+3	ገንዘብ	ገንዘብ	NOUN	NOUN	Number=Sing	4	obj	_	_
+4-6	ሰጠሁት	_	_	_	_	_	_	_	_
+4	ሰጥ	ሰጥ	VERB	VERB	Aspect=Perf	0	root	_	_
+5	ኧሁ	ኧሁ	PRON	SUBJC	Number=Sing|Person=1	4	nsubj	_	_
+6	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	_
+7	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x01-s17
+# text = እዚያ ብሆን እመኛለሁ ።
+1	እዚያ	እዚያ	ADV	ADV	_	4	advmod	_	_
+2-4	ብሆን	_	_	_	_	_	_	_	_
+2	ብ	ብ	SCONJ	SCONJ	_	4	mark	_	_
+3	እ	እ	PRON	SUBJC	Number=Sing|Person=1	4	nsubj	_	_
+4	ሆን	ሆን	VERB	VERB	Aspect=Imp	6	ccomp	_	_
+5-8	እመኛለሁ	_	_	_	_	_	_	_	_
+5	እ	እ	PRON	SUBJC	Number=Sing|Person=1	6	nsubj	_	_
+6	መኝ	መኝ	VERB	VERB	Aspect=Imp	0	root	_	_
+7	ኣል	ኣል	AUX	AUX	Tense=Pres	6	aux	_	_
+8	ኧሁ	ኧሁ	PRON	SUBJC	Number=Sing|Person=1	6	expl	_	_
+9	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-x00-s8
+# text = ሰርቼ እንኳን ቢሆን ኑሮ ብድሬን እከፍል ነበር ።
+1-2	ሰርቼ	_	_	_	_	_	_	_	_
+1	ሰርት	ሰርት	VERB	VERB	VerbForm=Conv	12	advcl	_	_
+2	ኤ	ኤ	PRON	SUBCC	Number=Sing|Person=1	1	nsubj	_	_
+3	እንኳን	እንኳን	SCONJ	SCONJ	_	1	mark	_	_
+4-6	ቢሆን	_	_	_	_	_	_	_	_
+4	ብ	ብ	SCONJ	SCONJ	_	1	mark	_	_
+5	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	1	expl	_	_
+6	ሆን	ሆን	AUX	AUX	_	1	aux	_	_
+7	ኑሮ	ኑሮ	SCONJ	SCONJ	_	1	mark	_	_
+8-10	ብድሬን	_	_	_	_	_	_	_	_
+8	ብድር	ብድር	NOUN	NOUN	Number=Sing	12	obj	_	_
+9	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	8	nmod	_	_
+10	ን	ን	PART	ACC	_	8	case	_	_
+11-12	እከፍል	_	_	_	_	_	_	_	_
+11	እ	እ	PRON	SUBJC	Number=Sing|Person=1	12	nsubj	_	_
+12	ከፍል	ከፍል	VERB	VERB	Aspect=Imp	0	root	_	_
+13	ነበር	ነበር	AUX	AUX	Tense=Past	12	aux	_	_
+14	።	።	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x30-s17
+# text = አስተማሪው ተማሪውን ለምን ወቀሰው ?
+1-2	አስተማሪው	_	_	_	_	_	_	_	_
+1	አስተማሪ	አስተማሪ	NOUN	NOUN	Number=Sing	7	nsubj	_	_
+2	ው	ው	DET	DET	_	1	det	_	_
+3-5	ተማሪውን	_	_	_	_	_	_	_	_
+3	ተማሪ	ተማሪ	NOUN	NOUN	Number=Sing	7	obj	_	_
+4	ው	ው	DET	DET	_	3	det	_	_
+5	ን	ን	PART	ACC	_	3	case	_	_
+6	ለምን	ለምን	ADV	ADV	_	7	advmod	_	_
+7-9	ወቀሰው	_	_	_	_	_	_	_	_
+7	ወቀስ	ወቀስ	VERB	VERB	Aspect=Perf	0	root	_	_
+8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	_
+9	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	_
+10	?	?	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x24-s18
+# text = ሊያመልጥ የሚችልበትን ዘዴ ፈጠረ ።
+1-3	ሊያመልጥ	_	_	_	_	_	_	_	_
+1	ል	ል	SCONJ	SCONJ	_	3	mark	_	_
+2	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+3	ኣመልጥ	ኣመልጥ	VERB	VERB	Aspect=Imp|Voice=Trans	7	advcl	_	_
+4-10	የሚችልበትን	_	_	_	_	_	_	_	_
+4	የ	የ	PART	RLP	_	7	mark	_	_
+5	እም	እም	PART	IRLP	_	7	mark	_	_
+6	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
+7	ችል	ችል	VERB	VERB	Aspect=Imp	11	acl	_	_
+8	በ	በ	ADP	ADP	Case=Ins	7	case	_	_
+9	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	_
+10	ን	ን	PART	ACC	_	11	case	_	_
+11	ዘዴ	ዘዴ	NOUN	NOUN	Number=Sing	12	obj	_	_
+12-13	ፈጠረ	_	_	_	_	_	_	_	_
+12	ፈጠር	ፈጠር	VERB	VERB	Aspect=Perf	0	root	_	_
+13	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	12	nsubj	_	_
+14	።	።	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x07-s12
+# text = ሳህኑን ወረወሩት ።
+1-3	ሳህኑን	_	_	_	_	_	_	_	_
+1	ሳህን	ሳህን	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4-6	ወረወሩት	_	_	_	_	_	_	_	_
+4	ወረወር	ወረወር	VERB	VERB	Aspect=Perf	0	root	_	_
+5	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	4	nsubj	_	_
+6	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	_
+7	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x22-s14
+# text = ሰውን የመናቅ ጠባዩን አልወድለትም ።
+1-2	ሰውን	_	_	_	_	_	_	_	_
+1	ሰው	ሰው	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	ን	ን	PART	ACC	_	1	case	_	_
+3-4	የመናቅ	_	_	_	_	_	_	_	_
+3	የ	የ	PART	RLP	_	4	case	_	_
+4	መናቅ	መናቅ	NOUN	NOUN	VerbForm=Inf	5	acl	_	_
+5-7	ጠባዩን	_	_	_	_	_	_	_	_
+5	ጠባይ	ጠባይ	NOUN	NOUN	Number=Sing	10	obj	_	_
+6	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod	_	_
+7	ን	ን	PART	ACC	_	5	case	_	_
+8-13	አልወድለትም	_	_	_	_	_	_	_	_
+8	ኣል	ኣል	PART	NEG	Polarity=Neg	10	advmod	_	_
+9	እ	እ	PRON	SUBJC	Number=Sing|Person=1	10	nsubj	_	_
+10	ወድ	ወድ	VERB	VERB	Aspect=Imp	0	root	_	_
+11	ል	ል	ADP	ADP	Case=Ben	10	case	_	_
+12	ኧት	ኧት	PRON	OBJC	Gender=Masc|Number=Plur|Person=3	10	expl	_	_
+13	ም	ም	PART	NCM	_	10	discourse	_	_
+14	።	።	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x04-s11
+# text = አስቴር ብርጭቆ ሰበረች ።
+1	አስቴር	አስቴር	PROPN	PROPN	_	3	nsubj	_	_
+2	ብርጭቆ	ብርጭቆ	NOUN	NOUN	Number=Sing	3	obj	_	_
+3-4	ሰበረች	_	_	_	_	_	_	_	_
+3	ሰበር	ሰበር	VERB	VERB	Aspect=Perf	0	root	_	_
+4	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	3	expl	_	_
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x19-s20
+# text = አባትህ የመጣ እንደሆነ እንጃልህ !
+1-2	አባትህ	_	_	_	_	_	_	_	_
+1	አባት	አባት	NOUN	NOUN	Number=Sing	4	nsubj	_	_
+2	ህ	ህ	PRON	POSM	Gender=Masc|Number=Sing|Person=2|Poss=Yes	1	nmod	_	_
+3-4	የመጣ	_	_	_	_	_	_	_	_
+3	የ	የ	PART	RLP	_	4	mark	_	_
+4	መጣ	መጣ	VERB	VERB	Aspect=Imp	8	advcl	_	_
+5-7	እንደሆነ	_	_	_	_	_	_	_	_
+5	እንደ	እንደ	SCONJ	SCONJ	_	4	mark	_	_
+6	ሆን	ሆን	AUX	AUX	_	4	aux	_	_
+7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+8-10	እንጃልህ	_	_	_	_	_	_	_	_
+8	እንጃ	እንጃ	VERB	VERB	Aspect=Imp	0	root	_	_
+9	ል	ል	ADP	ADP	Case=Ben	8	case	_	_
+10	ህ	ህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	8	expl	_	_
+11	!	!	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x11-s10
+# text = የስራ ጓደኞቼ ከኔ ጋር አንሰራም አሉ ።
+1-2	የስራ	_	_	_	_	_	_	_	_
+1	የ	የ	ADP	ADP	_	2	case	_	_
+2	ስራ	ስራ	NOUN	NOUN	Number=Sing	3	nmod	_	_
+3-4	ጓደኞቼ	_	_	_	_	_	_	_	_
+3	ጓደኞች	ጓደኞች	NOUN	NOUN	Number=Plur	12	nsubj	_	_
+4	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	3	nmod	_	_
+5-6	ከኔ	_	_	_	_	_	_	_	_
+5	ከ	ከ	ADP	ADP	_	6	case	_	_
+6	እኔ	እኔ	PRON	PRON	_	10	obl	_	_
+7	ጋር	ጋር	ADP	ADP	_	6	case	_	_
+8-11	አንሰራም	_	_	_	_	_	_	_	_
+8	አል	አል	PART	NEG	Polarity=Neg	10	advmod	_	_
+9	እን	እን	PRON	SUBJC	Number=Plur|Person=1	10	nsubj	_	_
+10	ሰራ	ሰራ	VERB	VERB	Aspect=Imp	12	xcomp	_	_
+11	ም	ም	PART	NCM	_	10	discourse	_	_
+12-13	አሉ	_	_	_	_	_	_	_	_
+12	አል	አል	VERB	VERB	Aspect=Perf	0	root	_	_
+13	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	12	expl	_	_
+14	።	።	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x10-s1
+# text = ከቤት ቤት ሲዞር አስመሸኝ ።
+1-2	ከቤት	_	_	_	_	_	_	_	_
+1	ከ	ከ	ADP	ADP	Case=Loc	2	case	_	_
+2	ቤት	ቤት	NOUN	NOUN	Number=Sing	6	obl	_	_
+3	ቤት	ቤት	NOUN	NOUN	Number=Sing	6	obl	_	_
+4-6	ሲዞር	_	_	_	_	_	_	_	_
+4	ስ	ስ	SCONJ	SCONJ	_	6	mark	_	_
+5	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
+6	ዞር	ዞር	VERB	VERB	Aspect=Imp	7	advcl	_	_
+7-9	አስመሸኝ	_	_	_	_	_	_	_	_
+7	አስመሽ	አስመሽ	VERB	VERB	Aspect=Imp|Voice=Cau	0	root	_	_
+8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
+9	ኝ	ኝ	PRON	OBJC	Number=Sing|Person=3	7	expl	_	_
+10	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = data_UD-x06-s14
+# text = የገዛሁት ቤት ነው ።
+1-4	የገዛሁት	_	_	_	_	_	_	_	_
+1	የ	የ	PART	RLP	_	2	mark	_	_
+2	ገዛ	ገዛ	VERB	VERB	Aspect=Perf	5	acl	_	_
+3	ሁ	ሁ	PRON	SUBJC	Number=Sing|Person=1	2	nsubj	_	_
+4	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	2	expl	_	_
+5	ቤት	ቤት	NOUN	NOUN	Number=Sing	0	root	_	_
+6-7	ነው	_	_	_	_	_	_	_	_
+6	ን	ን	AUX	AUX	Tense=Pres	5	aux	_	_
+7	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	5	expl	_	_
+8	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x09-s7
+# text = ካሳ ለአልማዝ ቡና አሰፈላላት ።
+1	ካሳ	ካሳ	PROPN	PROPN	_	5	nsubj	_	_
+2-3	ለአልማዝ	_	_	_	_	_	_	_	_
+2	ለ	ለ	ADP	ADP	Case=Ben	3	case	_	_
+3	አልማዝ	አልማዝ	PROPN	PROPN	_	5	obl	_	_
+4	ቡና	ቡና	NOUN	NOUN	Number=Sing	5	obj	_	_
+5-8	አሰፈላላት	_	_	_	_	_	_	_	_
+5	አሰፈላ	አሰፈላ	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
+6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	expl	_	_
+7	ል	ል	ADP	ADP	Case=Ben	5	mark	_	_
+8	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	5	expl	_	_
+9	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x10-s10
+# text = ሰብሮ ወረወረው ።
+1-2	ሰብሮ	_	_	_	_	_	_	_	_
+1	ሰብር	ሰብር	VERB	VERB	VerbForm=Conv	3	compound:svc	_	_
+2	ኦ	ኦ	PRON	SUBCC	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
+3-5	ወረወረው	_	_	_	_	_	_	_	_
+3	ወረወር	ወረወር	VERB	VERB	Aspect=Perf	0	root	_	_
+4	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+5	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+6	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x09-s5
+# text = ካሳ አልማዝን ውሻ አስገደላት ።
+1	ካሳ	ካሳ	PROPN	PROPN	_	5	nsubj	_	_
+2-3	አልማዝን	_	_	_	_	_	_	_	_
+2	አልማዝ	አልማዝ	PROPN	PROPN	_	5	iobj	_	_
+3	ን	ን	PART	ACC	_	2	case	_	_
+4	ውሻ	ውሻ	NOUN	NOUN	Number=Sing	5	obj	_	_
+5-7	አስገደላት	_	_	_	_	_	_	_	_
+5	አስገደል	አስገደል	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
+6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	expl	_	_
+7	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	5	expl	_	_
+8	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = data_UD-x09-s2
+# text = አልማዝን ዳቦ አጎረስኩዋት ።
+1-2	አልማዝን	_	_	_	_	_	_	_	_
+1	አልማዝ	አልማዝ	PROPN	PROPN	_	4	iobj	_	_
+2	ን	ን	PART	ACC	_	1	case	_	_
+3	ዳቦ	ዳቦ	NOUN	NOUN	Number=Sing	4	obj	_	_
+4-6	አጎረስኩዋት	_	_	_	_	_	_	_	_
+4	አጎረስ	አጎረስ	VERB	VERB	Aspect=Perf|Voice=Trans	0	root	_	_
+5	ኩ	ኩ	PRON	SUBJC	Number=Sing|Person=1	4	nsubj	_	_
+6	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	4	expl	_	_
+7	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-x11-s1
+# text = ዘንቦ ቀረን ።
+1-2	ዘንቦ	_	_	_	_	_	_	_	_
+1	ዘንብ	ዘንብ	VERB	VERB	VerbForm=Conv	3	compound:svc	_	_
+2	ኦ	ኦ	PRON	SUBCC	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
+3-4	ቀረን	_	_	_	_	_	_	_	_
+3	ቀር	ቀር	VERB	VERB	VerbForm=Conv	0	root	_	_
+4	ኧን	ኧን	PRON	SUBCC	Number=Plur|Person=1	3	nsubj	_	_
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x06-s15
+# text = ያንን ቤት ነው የገዛሁት ።
+1-2	ያንን	_	_	_	_	_	_	_	_
+1	ያ	ያ	DET	DET	_	3	det	_	_
+2	ን	ን	PART	ACC	_	3	case	_	_
+3	ቤት	ቤት	NOUN	NOUN	Number=Sing	0	root	_	_
+4-5	ነው	_	_	_	_	_	_	_	_
+4	ን	ን	AUX	AUX	Tense=Pres	3	cop	_	_
+5	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	3	expl	_	_
+6-9	የገዛሁት	_	_	_	_	_	_	_	_
+6	የ	የ	PART	RLP	_	7	mark	_	_
+7	ገዛ	ገዛ	VERB	VERB	Aspect=Perf	3	acl	_	_
+8	ሁ	ሁ	PRON	SUBJC	Number=Sing|Person=1	7	nsubj	_	_
+9	ት	ት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	7	expl	_	_
+10	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-x00-s6
+# text = በሩን ከመክፈቴ እሷን አየኋት ።
+1-3	በሩን	_	_	_	_	_	_	_	_
+1	በር	በር	NOUN	NOUN	Number=Sing	5	obj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4-6	ከመክፈቴ	_	_	_	_	_	_	_	_
+4	ከ	ከ	SCONJ	SCONJ	_	5	mark	_	_
+5	መክፈት	መክፈት	NOUN	NOUN	VerbForm=Inf	9	advcl	_	_
+6	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	5	nmod	_	_
+7-8	እሷን	_	_	_	_	_	_	_	_
+7	እሷ	እሷ	PRON	PRON	_	9	obj	_	_
+8	ን	ን	PART	ACC	_	7	case	_	_
+9-11	አየኋት	_	_	_	_	_	_	_	_
+9	አየ	አየ	VERB	VERB	Aspect=Perf	0	root	_	_
+10	ሁ	ሁ	PRON	SUBJC	Number=Sing|Person=1	9	nsubj	_	_
+11	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	9	expl	_	_
+12	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = data_UD-x20-s3
+# text = ኤዲያ ! ተመልከት ምን እንዳደረግህ ።
+1	ኤዲያ	ኤዲያ	INTJ	INTJ	_	3	discourse	_	_
+2	!	!	PUNCT	PUNCT	_	1	punct	_	_
+3	ተመልከት	ተመልከት	VERB	VERB	Mood=Jus|Voice=Pass	0	root	_	_
+4	ምን	ምን	PRON	PRON	_	6	obj	_	_
+5-7	እንዳደረግህ	_	_	_	_	_	_	_	_
+5	እንደ	እንደ	SCONJ	SCONJ	_	6	mark	_	_
+6	ኣደረግ	ኣደረግ	VERB	VERB	Aspect=Perf	3	ccomp	_	_
+7	ህ	ህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	6	nsubj	_	_
+8	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x04-s7
+# text = ቁመቴ 1.85 ነው ።
+1-2	ቁመቴ	_	_	_	_	_	_	_	_
+1	ቁመት	ቁመት	NOUN	NOUN	Number=Sing	3	nsubj	_	_
+2	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	1	nmod	_	_
+3	1.85	1.85	NUM	NUM	_	0	root	_	_
+4-5	ነው	_	_	_	_	_	_	_	_
+4	ን	ን	AUX	AUX	Tense=Pres	3	cop	_	_
+5	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	3	expl	_	_
+6	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x21-s3
+# text = አባያውን በሬ ትተህ ምነው ደህናውን መግረፍህ ?
+1-3	አባያውን	_	_	_	_	_	_	_	_
+1	አባያ	አባያ	ADJ	ADJ	_	4	amod	_	_
+2	ው	ው	DET	DET	_	1	det	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4	በሬ	በሬ	NOUN	NOUN	Number=Sing	5	obj	_	_
+5-6	ትተህ	_	_	_	_	_	_	_	_
+5	ትት	ትት	VERB	VERB	VerbForm=Conv	11	advcl	_	_
+6	ኧህ	ኧህ	PRON	SUBCC	Gender=Masc|Number=Sing|Person=2	11	nsubj	_	_
+7	ምነው	ምነው	PRON	PRON	_	11	nmod	_	_
+8-10	ደህናውን	_	_	_	_	_	_	_	_
+8	ደህና	ደህና	ADJ	ADJ	_	11	nmod	_	_
+9	ው	ው	DET	DET	_	8	det	_	_
+10	ን	ን	PART	ACC	_	8	case	_	_
+11-12	መግረፍህ	_	_	_	_	_	_	_	_
+11	መግረፍ	መግረፍ	NOUN	NOUN	VerbForm=Inf	0	root	_	_
+12	ህ	ህ	PRON	POSM	Gender=Masc|Number=Sing|Person=2|Poss=Yes	11	nmod	_	_
+13	?	?	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x01-s10
+# text = ካሳ የአስቴር ወደ ጎንደር መሄድ ሰምቶአል ።
+1	ካሳ	ካሳ	PROPN	PROPN	_	7	nsubj	_	_
+2-3	የአስቴር	_	_	_	_	_	_	_	_
+2	የ	የ	ADP	ADP	_	3	case	_	_
+3	አስቴር	አስቴር	PROPN	PROPN	_	6	nmod	_	_
+4	ወደ	ወደ	ADP	ADP	_	5	case	_	_
+5	ጎንደር	ጎንደር	NOUN	NOUN	Number=Sing	6	nmod	_	_
+6	መሄድ	መሄድ	NOUN	NOUN	VerbForm=Inf	7	obl	_	_
+7-9	ሰምቶአል	_	_	_	_	_	_	_	_
+7	ሰምት	ሰምት	VERB	VERB	VerbForm=Conv	0	root	_	_
+8	ኦ	ኦ	PRON	SUBCC	Gender=Masc|Number=Sing|Person=3	7	expl	_	_
+9	ኣል	ኣል	AUX	AUX	Tense=Pres	7	aux	_	_
+10	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = data_UD-x05-s15
+# text = ማግባቱን እንደነገረኝ መጣሁ ።
+1-3	ማግባቱን	_	_	_	_	_	_	_	_
+1	ማግባት	ማግባት	NOUN	NOUN	VerbForm=Inf	5	ccomp	_	_
+2	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	1	nmod	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4-7	እንደነገረኝ	_	_	_	_	_	_	_	_
+4	እንደ	እንደ	SCONJ	SCONJ	_	5	mark	_	_
+5	ነገር	ነገር	VERB	VERB	Aspect=Perf	8	advcl	_	_
+6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+7	ኝ	ኝ	PRON	OBJC	Number=Sing|Person=1	5	expl	_	_
+8-9	መጣሁ	_	_	_	_	_	_	_	_
+8	መጣ	መጣ	VERB	VERB	Aspect=Perf	0	root	_	_
+9	ሁ	ሁ	PRON	SUBJC	Number=Sing|Person=1	8	nsubj	_	_
+10	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x20-s18
+# text = ባስፈራራውም ትእዛዜን መጣሱን ቀጠለ ።
+1-5	ባስፈራራውም	_	_	_	_	_	_	_	_
+1	ብ	ብ	SCONJ	SCONJ	_	3	mark	_	_
+2	እ	እ	PRON	SUBJC	Number=Sing|Person=1	3	nsubj	_	_
+3	ኣስፈራራ	ኣስፈራራ	VERB	VERB	Aspect=Imp,Iter|Voice=Cau	12	advcl	_	_
+4	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+5	ም	ም	CCONJ	CCONJ	_	3	cc	_	_
+6-8	ትእዛዜን	_	_	_	_	_	_	_	_
+6	ትእዛዝ	ትእዛዝ	NOUN	NOUN	Number=Sing	9	obj	_	_
+7	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	6	nmod	_	_
+8	ን	ን	PART	ACC	_	6	case	_	_
+9-11	መጣሱን	_	_	_	_	_	_	_	_
+9	መጣስ	መጣስ	NOUN	NOUN	VerbForm=Inf	12	xcomp	_	_
+10	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	9	nmod	_	_
+11	ን	ን	PART	ACC	_	9	case	_	_
+12-13	ቀጠለ	_	_	_	_	_	_	_	_
+12	ጠል	ጠል	VERB	VERB	Aspect=Perf	0	root	_	_
+13	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	12	nsubj	_	_
+14	።	።	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = data_UD-x06-s5
+# text = የቤቴን ጣሪያ አነሳሁት ።
+1-4	የቤቴን	_	_	_	_	_	_	_	_
+1	የ	የ	ADP	ADP	_	2	case	_	_
+2	ቤት	ቤት	NOUN	NOUN	Number=Sing	5	nmod	_	_
+3	ኤ	ኤ	PRON	POSM	Number=Sing|Person=1|Poss=Yes	2	nmod	_	_
+4	ን	ን	PART	ACC	_	2	case	_	_
+5	ጣሪያ	ጣሪያ	NOUN	NOUN	Number=Sing	6	obj	_	_
+6-8	አነሳሁት	_	_	_	_	_	_	_	_
+6	አነሳ	አነሳ	VERB	VERB	Aspect=Perf|Voice=Trans	0	root	_	_
+7	ሁ	ሁ	PRON	SUBJC	Number=Sing|Person=1	6	nsubj	_	_
+8	ት	ት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	6	expl	_	_
+9	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-x06-s11
+# text = የሄድነው በወንዙ አጠገብ ነው ።
+1-4	የሄድነው	_	_	_	_	_	_	_	_
+1	የ	የ	PART	RLP	_	2	mark	_	_
+2	ሄድ	ሄድ	VERB	VERB	Aspect=Perf	6	acl	_	_
+3	ን	ን	PRON	SUBJC	Number=Plur|Person=1	2	nsubj	_	_
+4	ኧው	ኧው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	2	obj	_	_
+5-7	በወንዙ	_	_	_	_	_	_	_	_
+5	በ	በ	ADP	ADP	_	6	case	_	_
+6	ወንዝ	ወንዝ	NOUN	NOUN	Number=Sing	0	root	_	_
+7	ኡ	ኡ	DET	DET	_	6	det	_	_
+8	አጠገብ	አጠገብ	ADP	ADP	_	6	case	_	_
+9-10	ነው	_	_	_	_	_	_	_	_
+9	ን	ን	AUX	AUX	Tense=Pres	6	cop	_	_
+10	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	6	expl	_	_
+11	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-x17-s19
+# text = ዓለሙ ይረሳል ተስፋዬም እንዲሁ ።
+1	ዓለሙ	ዓለሙ	PROPN	PROPN	_	3	nsubj	_	_
+2-4	ይረሳል	_	_	_	_	_	_	_	_
+2	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+3	ረስ	ረስ	VERB	VERB	Aspect=Imp	0	root	_	_
+4	ኣል	ኣል	AUX	AUX	Tense=Pres	3	aux	_	_
+5-6	ተስፋዬም	_	_	_	_	_	_	_	_
+5	ተስፋዬ	ተስፋዬ	PROPN	PROPN	_	3	conj	_	_
+6	ም	ም	CCONJ	CCONJ	_	5	cc	_	_
+7	እንዲሁ	እንዲሁ	ADV	ADV	_	3	advmod	_	_
+8	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-x07-s20
+# text = ልጁ ልብሱን ደበቀ ።
+1-2	ልጁ	_	_	_	_	_	_	_	_
+1	ልጅ	ልጅ	NOUN	NOUN	Number=Sing	6	nsubj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3-5	ልብሱን	_	_	_	_	_	_	_	_
+3	ልብስ	ልብስ	NOUN	NOUN	Number=Sing	6	obj	_	_
+4	ኡ	ኡ	DET	DET	_	3	det	_	_
+5	ን	ን	PART	ACC	_	3	case	_	_
+6-7	ደበቀ	_	_	_	_	_	_	_	_
+6	ደበቅ	ደበቅ	VERB	VERB	Aspect=Perf	0	root	_	_
+7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
+8	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-x12-s15
+# text = ቤቱን ጠርገሽ ልብሱን አጥበሽ ወጥ ሥሪ ።
+1-3	ቤቱን	_	_	_	_	_	_	_	_
+1	ቤት	ቤት	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4-5	ጠርገሽ	_	_	_	_	_	_	_	_
+4	ጠርግ	ጠርግ	VERB	VERB	VerbForm=Conv	9	compound:svc	_	_
+5	ኧሽ	ኧሽ	PRON	SUBCC	Gender=Fem|Number=Sing|Person=2	4	nsubj	_	_
+6-8	ልብሱን	_	_	_	_	_	_	_	_
+6	ልብስ	ልብስ	NOUN	NOUN	Number=Sing	9	obj	_	_
+7	ኡ	ኡ	DET	DET	_	6	det	_	_
+8	ን	ን	PART	ACC	_	6	case	_	_
+9-10	አጥበሽ	_	_	_	_	_	_	_	_
+9	አጥብ	አጥብ	VERB	VERB	VerbForm=Conv	12	compound:svc	_	_
+10	ኧሽ	ኧሽ	PRON	SUBCC	Gender=Fem|Number=Sing|Person=2	9	nsubj	_	_
+11	ወጥ	ወጥ	NOUN	NOUN	Number=Sing	12	obj	_	_
+12-13	ሥሪ	_	_	_	_	_	_	_	_
+12	ሥር	ሥር	VERB	VERB	Aspect=Imp	0	root	_	_
+13	ኢ	ኢ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=2	12	nsubj	_	_
+14	።	።	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = data_UD-x18-s18
+# text = መስኮቱን ዝጋ !
+1-3	መስኮቱን	_	_	_	_	_	_	_	_
+1	መስኮት	መስኮት	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4	ዝጋ	ዝጋ	VERB	VERB	Mood=Jus	0	root	_	_
+5	!	!	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-x13-s17
+# text = እግዜርን ይፈሩአል ።
+1-2	እግዜርን	_	_	_	_	_	_	_	_
+1	እግዜር	እግዜር	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	ን	ን	PART	ACC	_	1	case	_	_
+3-6	ይፈሩአል	_	_	_	_	_	_	_	_
+3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	_
+4	ፈር	ፈር	VERB	VERB	Aspect=Imp	0	root	_	_
+5	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	4	nsubj	_	_
+6	ኣል	ኣል	AUX	AUX	Tense=Pres	4	aux	_	_
+7	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-x12-s1
+# text = ምን አምጣ እንዳለኝ አልሰማሁም ።
+1	ምን	ምን	PRON	PRON	_	2	obj	_	_
+2-3	አምጣ	_	_	_	_	_	_	_	_
+2	አምጣ	አምጣ	VERB	VERB	Mood=Jus|Voice=Trans	5	ccomp	_	_
+3	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+4-7	እንዳለኝ	_	_	_	_	_	_	_	_
+4	እንደ	እንደ	SCONJ	SCONJ	_	5	mark	_	_
+5	ኣል	ኣል	VERB	VERB	Aspect=Perf	9	ccomp	_	_
+6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+7	ኝ	ኝ	PRON	OBJC	Number=Sing|Person=1	5	obj	_	_
+8-11	አልሰማሁም	_	_	_	_	_	_	_	_
+8	ኣል	ኣል	PART	NEG	Polarity=Neg	9	advmod	_	_
+9	ሰማ	ሰማ	VERB	VERB	Aspect=Perf	0	root	_	_
+10	ሁ	ሁ	PRON	SUBJC	Number=Sing|Person=1	9	nsubj	_	_
+11	ም	ም	PART	NCM	_	9	discourse	_	_
+12	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = data_UD-x01-s19
+# text = እዚህ ካለህ እራት አብረኧን ብላ ።
+1	እዚህ	እዚህ	ADV	ADV	_	3	advmod	_	_
+2-4	ካለህ	_	_	_	_	_	_	_	_
+2	ከ	ከ	SCONJ	SCONJ	_	3	mark	_	_
+3	ኣለ	ኣለ	VERB	VERB	Aspect=Perf	9	advcl	_	_
+4	ህ	ህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	3	nsubj	_	_
+5	እራት	እራት	NOUN	NOUN	Number=Sing	9	obj	_	_
+6-8	አብረኧን	_	_	_	_	_	_	_	_
+6	አብር	አብር	VERB	VERB	Aspect=Perf	9	advcl	_	_
+7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	6	expl	_	_
+8	ን	ን	PRON	OBJC	Number=Plur|Person=1	6	expl	_	_
+9	ብላ	ብላ	VERB	VERB	Mood=Jus	0	root	_	_
+10	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x20-s16
+# text = በጊዜ መተኛት መብትህ ነው ።
+1-2	በጊዜ	_	_	_	_	_	_	_	_
+1	በ	በ	ADP	ADP	_	2	case	_	_
+2	ጊዜ	ጊዜ	NOUN	NOUN	Number=Sing	3	obl	_	_
+3	መተኛት	መተኛት	NOUN	NOUN	VerbForm=Inf	4	csubj	_	_
+4-5	መብትህ	_	_	_	_	_	_	_	_
+4	መብት	መብት	NOUN	NOUN	VerbForm=Inf	0	root	_	_
+5	ህ	ህ	PRON	POSM	Gender=Masc|Number=Sing|Person=2|Poss=Yes	4	nmod	_	_
+6-7	ነው	_	_	_	_	_	_	_	_
+6	ን	ን	AUX	AUX	Tense=Pres	4	cop	_	_
+7	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	4	expl	_	_
+8	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-x03-s4
+# text = የእኔ ውሻ ሞተ ።
+1-2	የእኔ	_	_	_	_	_	_	_	_
+1	የ	የ	ADP	ADP	_	2	case	_	_
+2	እኔ	እኔ	PRON	PRON	_	3	nmod	_	_
+3	ውሻ	ውሻ	NOUN	NOUN	Number=Sing	4	nsubj	_	_
+4-5	ሞተ	_	_	_	_	_	_	_	_
+4	ሞት	ሞት	VERB	VERB	Aspect=Perf	0	root	_	_
+5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	_
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x10-s14
+# text = ፈረስ ከገዛላት በኋላ መጣ ።
+1	ፈረስ	ፈረስ	NOUN	NOUN	Number=Sing	3	obj	_	_
+2-6	ከገዛላት	_	_	_	_	_	_	_	_
+2	ከ	ከ	SCONJ	SCONJ	_	3	mark	_	_
+3	ገዛ	ገዛ	VERB	VERB	Aspect=Perf	8	advcl	_	_
+4	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+5	ል	ል	ADP	ADP	Case=Ben	3	mark	_	_
+6	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	3	expl	_	_
+7	በኋላ	በኋላ	ADP	ADP	_	3	mark	_	_
+8-9	መጣ	_	_	_	_	_	_	_	_
+8	መጣ	መጣ	VERB	VERB	Aspect=Perf	0	root	_	_
+9	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	_
+10	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x23-s12
+# text = ብረት ለምድጃ መሥሪያ ያገለግላል ።
+1	ብረት	ብረት	NOUN	NOUN	Number=Sing	6	nsubj	_	_
+2-3	ለምድጃ	_	_	_	_	_	_	_	_
+2	ለ	ለ	ADP	ADP	_	3	case	_	_
+3	ምድጃ	ምድጃ	NOUN	NOUN	Number=Sing	4	obl	_	_
+4	መሥሪያ	መሥሪያ	NOUN	NOUN	VerbForm=Inf	6	advcl	_	_
+5-7	ያገለግላል	_	_	_	_	_	_	_	_
+5	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
+6	ኣገለግል	ኣገለግል	VERB	VERB	Aspect=Imp	0	root	_	_
+7	ኣል	ኣል	AUX	AUX	Tense=Pres	6	aux	_	_
+8	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-x09-s8
+# text = አልማዝ ላይ ድንጋይ አስወረወሩባት ።
+1	አልማዝ	አልማዝ	PROPN	PROPN	_	4	obl	_	_
+2	ላይ	ላይ	ADP	ADP	_	1	case	_	_
+3	ድንጋይ	ድንጋይ	NOUN	NOUN	Number=Sing	4	obj	_	_
+4-7	አስወረወሩባት	_	_	_	_	_	_	_	_
+4	አስወረወር	አስወረወር	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
+5	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	4	nsubj	_	_
+6	ብ	ብ	ADP	ADP	Case=Mal	4	case	_	_
+7	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	4	expl	_	_
+8	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-x02-s13
+# text = ካሳ ተናደደ ።
+1	ካሳ	ካሳ	PROPN	PROPN	_	2	nsubj:pass	_	_
+2-3	ተናደደ	_	_	_	_	_	_	_	_
+2	ተናደድ	ተናደድ	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
+3	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	2	expl	_	_
+4	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = data_UD-x15-s2
+# text = ማን ከማን ጋር ምሳ በላ ?
+1	ማን	ማን	PRON	PRON	_	6	nsubj	_	_
+2-3	ከማን	_	_	_	_	_	_	_	_
+2	ከ	ከ	ADP	ADP	_	3	case	_	_
+3	ማን	ማን	PRON	PRON	_	6	obl	_	_
+4	ጋር	ጋር	ADP	ADP	_	3	case	_	_
+5	ምሳ	ምሳ	NOUN	NOUN	Number=Sing	6	obj	_	_
+6-7	በላ	_	_	_	_	_	_	_	_
+6	በላ	በላ	VERB	VERB	Aspect=Perf	0	root	_	_
+7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
+8	?	?	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-x14-s17
+# text = ማን ጫማ ገዛልህ ?
+1	ማን	ማን	PRON	PRON	_	3	nmod	_	_
+2	ጫማ	ጫማ	NOUN	NOUN	Number=Sing	3	obj	_	_
+3-5	ገዛልህ	_	_	_	_	_	_	_	_
+3	ገዛ	ገዛ	VERB	VERB	Aspect=Perf	0	root	_	_
+4	ል	ል	ADP	ADP	Case=Ben	3	case	_	_
+5	ህ	ህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	3	nsubj	_	_
+6	?	?	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-Sleepwalking-26-s6
+# text = እህሉን አስሸከመ ።
+1-3	እህሉን	_	_	_	_	_	_	_	_
+1	እህል	እህል	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4-5	አስሸከመ	_	_	_	_	_	_	_	_
+4	አስሸከም	አስሸከም	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
+5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+6	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-x09-s12
+# text = ውሃ አስሞቀ ።
+1	ውሃ	ውሃ	NOUN	NOUN	Number=Sing	2	obj	_	_
+2-3	አስሞቀ	_	_	_	_	_	_	_	_
+2	አስሞቅ	አስሞቅ	VERB	VERB	Aspect=Perf|Voice=Cau	0	root	_	_
+3	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+4	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x04-s3
+# text = ፍየሎቹ ወንዙን ተከተሉ ።
+1-2	ፍየሎቹ	_	_	_	_	_	_	_	_
+1	ፍየሎች	ፍየሎች	NOUN	NOUN	Number=Plur	6	nsubj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3-5	ወንዙን	_	_	_	_	_	_	_	_
+3	ወንዝ	ወንዝ	NOUN	NOUN	Number=Sing	6	obj	_	_
+4	ኡ	ኡ	DET	DET	_	3	det	_	_
+5	ን	ን	PART	ACC	_	3	case	_	_
+6-7	ተከተሉ	_	_	_	_	_	_	_	_
+6	ተከተል	ተከተል	VERB	VERB	Aspect=Perf	0	root	_	_
+7	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	6	expl	_	_
+8	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x24-s6
+# text = ሐኪሙ እባጩን አፈረጠለት ።
+1-2	ሐኪሙ	_	_	_	_	_	_	_	_
+1	ሐኪም	ሐኪም	NOUN	NOUN	Number=Sing	6	nsubj	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3-5	እባጩን	_	_	_	_	_	_	_	_
+3	እባጭ	እባጭ	NOUN	NOUN	Number=Sing	6	obj	_	_
+4	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	nmod	_	_
+5	ን	ን	PART	ACC	_	3	case	_	_
+6-9	አፈረጠለት	_	_	_	_	_	_	_	_
+6	አፈረጥ	አፈረጥ	VERB	VERB	Aspect=Perf|Voice=Trans	0	root	_	_
+7	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
+8	ል	ል	ADP	ADP	Case=Ben	6	case	_	_
+9	ኧት	ኧት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	6	expl	_	_
+10	።	።	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x22-s11
+# text = ሥራው ወደ ማለቁ ነው ።
+1-2	ሥራው	_	_	_	_	_	_	_	_
+1	ሥራ	ሥራ	NOUN	NOUN	Number=Sing	4	nsubj	_	_
+2	ው	ው	DET	DET	_	1	det	_	_
+3	ወደ	ወደ	ADP	ADP	_	4	case	_	_
+4-5	ማለቁ	_	_	_	_	_	_	_	_
+4	ማለቅ	ማለቅ	NOUN	NOUN	VerbForm=Inf	0	root	_	_
+5	ኡ	ኡ	DET	DET	_	4	det	_	_
+6-7	ነው	_	_	_	_	_	_	_	_
+6	ን	ን	AUX	AUX	Tense=Pres	4	aux	_	_
+7	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	4	expl	_	_
+8	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x03-s6
+# text = ምግቡ በሰለ ።
+1-2	ምግቡ	_	_	_	_	_	_	_	_
+1	ምግብ	ምግብ	NOUN	NOUN	Number=Sing	3	nsubj:pass	_	_
+2	ኡ	ኡ	DET	DET	_	1	det	_	_
+3-4	በሰለ	_	_	_	_	_	_	_	_
+3	በሰል	በሰል	VERB	VERB	Aspect=Perf	0	root	_	_
+4	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	3	expl	_	_
+5	።	።	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x21-s9
+# text = ነገ የምትመጣ መሆኑን ሰምቻለሁ ።
+1	ነገ	ነገ	ADV	ADV	_	5	advmod	_	_
+2-5	የምትመጣ	_	_	_	_	_	_	_	_
+2	የ	የ	PART	RLP	_	5	mark	_	_
+3	እም	እም	PART	IRLP	_	5	mark	_	_
+4	ት	ት	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	5	nsubj	_	_
+5	መጣ	መጣ	VERB	VERB	Aspect=Imp	9	ccomp	_	_
+6-8	መሆኑን	_	_	_	_	_	_	_	_
+6	መሆን	መሆን	NOUN	NOUN	VerbForm=Inf	5	aux	_	_
+7	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	6	nmod	_	_
+8	ን	ን	PART	ACC	_	6	case	_	_
+9-12	ሰምቻለሁ	_	_	_	_	_	_	_	_
+9	ሰምት	ሰምት	VERB	VERB	VerbForm=Conv	0	root	_	_
+10	ኤ	ኤ	PRON	SUBCC	Number=Sing|Person=1	9	nsubj	_	_
+11	ኣል	ኣል	AUX	AUX	Tense=Pres	9	aux	_	_
+12	ኧሁ	ኧሁ	PRON	SUBJC	Number=Sing|Person=1	9	expl	_	_
+13	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = data_UD-x14-s3
+# text = ካሳ ቤት ውስጥ የለም ።
+1	ካሳ	ካሳ	PROPN	PROPN	_	4	nsubj	_	_
+2	ቤት	ቤት	NOUN	NOUN	Number=Sing	4	obl	_	_
+3	ውስጥ	ውስጥ	ADP	ADP	_	2	case	_	_
+4-6	የለም	_	_	_	_	_	_	_	_
+4	የል	የል	VERB	VERB	Aspect=Perf	0	root	_	_
+5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	_
+6	ም	ም	PART	NCM	_	4	discourse	_	_
+7	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x26-s15
+# text = ሦስት ቀን ይኬድና ባራተኛው ይደረሳል ።
+1	ሦስት	ሦስት	NUM	NUM	_	2	nummod	_	_
+2	ቀን	ቀን	NOUN	NOUN	Number=Sing	4	nmod	_	_
+3-5	ይኬድና	_	_	_	_	_	_	_	_
+3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+4	ኬድ	ኬድ	VERB	VERB	Aspect=Imp	0	root	_	_
+5	ና	ና	CCONJ	CCONJ	_	10	cc	_	_
+6-8	ባራተኛው	_	_	_	_	_	_	_	_
+6	በ	በ	ADP	ADP	_	7	case	_	_
+7	አራተኛ	አራተኛ	NUM	NUM	_	10	obl	_	_
+8	ው	ው	DET	DET	_	7	det	_	_
+9-11	ይደረሳል	_	_	_	_	_	_	_	_
+9	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
+10	ደረስ	ደረስ	VERB	VERB	Aspect=Imp	4	conj	_	_
+11	ኣል	ኣል	AUX	AUX	Tense=Pres	10	aux	_	_
+12	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x00-s12
+# text = ዳኛውን ፈርቶ ሳይመጣ ቀረ ።
+1-3	ዳኛውን	_	_	_	_	_	_	_	_
+1	ዳኛ	ዳኛ	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	ው	ው	DET	DET	_	1	det	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4-5	ፈርቶ	_	_	_	_	_	_	_	_
+4	ፈርት	ፈርት	VERB	VERB	VerbForm=Conv	11	compound:svc	_	_
+5	ኦ	ኦ	PRON	SUBCC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
+6-10	ሳይመጣ	_	_	_	_	_	_	_	_
+6	ስ	ስ	SCONJ	SCONJ	_	9	mark	_	_
+7	ኣል	ኣል	PART	NEG	Polarity=Neg	9	advmod	_	_
+8	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
+9	መጣ	መጣ	VERB	VERB	Aspect=Imp	11	advcl	_	_
+10	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
+11-12	ቀረ	_	_	_	_	_	_	_	_
+11	ቀር	ቀር	VERB	VERB	Aspect=Perf	0	root	_	_
+12	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
+13	።	።	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x01-s1
+# text = ተናጋሪው ንግግሩን ቶሎ ቢጨርስ ጥሩ ነበር ።
+1-2	ተናጋሪው	_	_	_	_	_	_	_	_
+1	ተናጋሪ	ተናጋሪ	NOUN	NOUN	Number=Sing	9	nsubj	_	_
+2	ው	ው	DET	DET	_	1	det	_	_
+3-5	ንግግሩን	_	_	_	_	_	_	_	_
+3	ንግግር	ንግግር	NOUN	NOUN	Number=Sing	9	obj	_	_
+4	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	nmod	_	_
+5	ን	ን	PART	ACC	_	3	case	_	_
+6	ቶሎ	ቶሎ	ADV	ADV	_	9	advmod	_	_
+7-9	ቢጨርስ	_	_	_	_	_	_	_	_
+7	ብ	ብ	SCONJ	SCONJ	_	9	mark	_	_
+8	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	expl	_	_
+9	ጨርስ	ጨርስ	VERB	VERB	Aspect=Imp	10	csubj	_	_
+10	ጥሩ	ጥሩ	ADJ	ADJ	_	0	root	_	_
+11	ነበር	ነበር	AUX	AUX	Tense=Past	10	cop	_	_
+12	።	።	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x30-s6
+# text = ሰው እንደ አሳ በባህር ይኖራል ።
+1	ሰው	ሰው	NOUN	NOUN	Number=Sing	7	nsubj	_	_
+2	እንደ	እንደ	ADP	ADP	_	3	case	_	_
+3	አሳ	አሳ	NOUN	NOUN	Number=Sing	7	obl	_	_
+4-5	በባህር	_	_	_	_	_	_	_	_
+4	በ	በ	ADP	ADP	_	5	case	_	_
+5	ባህር	ባህር	NOUN	NOUN	Number=Sing	7	obl	_	_
+6-8	ይኖራል	_	_	_	_	_	_	_	_
+6	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
+7	ኖር	ኖር	VERB	VERB	Aspect=Imp	0	root	_	_
+8	ኣል	ኣል	AUX	AUX	Tense=Pres	7	aux	_	_
+9	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x24-s8
+# text = ደብተርህን ላክልኝ ።
+1-3	ደብተርህን	_	_	_	_	_	_	_	_
+1	ደብተር	ደብተር	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	ህ	ህ	PRON	POSM	Gender=Masc|Number=Sing|Person=2|Poss=Yes	1	nmod	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4-6	ላክልኝ	_	_	_	_	_	_	_	_
+4	ላክ	ላክ	VERB	VERB	Aspect=Perf	0	root	_	_
+5	ል	ል	ADP	ADP	Case=Ben	4	case	_	_
+6	ኝ	ኝ	PRON	OBJC	Number=Sing|Person=1	4	expl	_	_
+7	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-Sleepwalking-x04-s10
+# text = ጡት አጠባሁዋት ።
+1	ጡት	ጡት	NOUN	NOUN	Number=Sing	2	obj	_	_
+2-4	አጠባሁዋት	_	_	_	_	_	_	_	_
+2	አጠብ	አጠብ	VERB	VERB	Aspect=Perf|Voice=Trans	0	root	_	_
+3	ሁ	ሁ	PRON	SUBJC	Number=Sing|Person=1	2	nsubj	_	_
+4	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	2	expl	_	_
+5	።	።	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = data_UD-x12-s3
+# text = ዘንድሮ እህል ውድ ነው ይላሉ ።
+1	ዘንድሮ	ዘንድሮ	ADV	ADV	_	7	advmod	_	_
+2	እህል	እህል	NOUN	NOUN	Number=Sing	3	nsubj	_	_
+3	ውድ	ውድ	ADJ	ADJ	_	7	ccomp	_	_
+4-5	ነው	_	_	_	_	_	_	_	_
+4	ን	ን	AUX	AUX	Tense=Pres	3	cop	_	_
+5	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	3	expl	_	_
+6-9	ይላሉ	_	_	_	_	_	_	_	_
+6	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	_
+7	ል	ል	VERB	VERB	Aspect=Imp	0	root	_	_
+8	ኣል	ኣል	AUX	AUX	Tense=Pres	7	aux	_	_
+9	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	7	nsubj	_	_
+10	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x05-s15
+# text = ካሳ ዜናውን ለአለም ነገራት ።
+1	ካሳ	ካሳ	PROPN	PROPN	_	7	nsubj	_	_
+2-4	ዜናውን	_	_	_	_	_	_	_	_
+2	ዜና	ዜና	NOUN	NOUN	Number=Sing	7	obj	_	_
+3	ው	ው	DET	DET	_	2	det	_	_
+4	ን	ን	PART	ACC	_	2	case	_	_
+5-6	ለአለም	_	_	_	_	_	_	_	_
+5	ለ	ለ	ADP	ADP	_	6	case	_	_
+6	አለም	አለም	PROPN	PROPN	_	7	obl	_	_
+7-9	ነገራት	_	_	_	_	_	_	_	_
+7	ነገር	ነገር	VERB	VERB	Aspect=Perf	0	root	_	_
+8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	_
+9	ኣት	ኣት	PRON	OBJC	Gender=Fem|Number=Sing|Person=3	7	expl	_	_
+10	።	።	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = data_UD-x17-s18
+# text = መቶዎቹም በጎች ተሸጡ ።
+1-3	መቶዎቹም	_	_	_	_	_	_	_	_
+1	መቶዎች	መቶዎች	NUM	NUM	Number=Plur	4	nummod	_	_
+2	ኡ	ኡ	DET	DET	_	4	det	_	_
+3	ም	ም	CCONJ	CCONJ	_	4	cc	_	_
+4	በጎች	በጎች	NOUN	NOUN	Number=Plur	5	nsubj:pass	_	_
+5-6	ተሸጡ	_	_	_	_	_	_	_	_
+5	ተሸጥ	ተሸጥ	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
+6	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	5	expl	_	_
+7	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x20-s8
+# text = ይቺ ሴትዮ እህል ካልበላች ሟች ናት ።
+1	ይቺ	ይቺ	DET	DET	_	2	det	_	_
+2	ሴትዮ	ሴትዮ	NOUN	NOUN	Number=Sing	6	nsubj	_	_
+3	እህል	እህል	NOUN	NOUN	Number=Sing	6	obj	_	_
+4-7	ካልበላች	_	_	_	_	_	_	_	_
+4	ከ	ከ	SCONJ	SCONJ	_	6	mark	_	_
+5	ኣል	ኣል	PART	NEG	Polarity=Neg	6	advmod	_	_
+6	በላ	በላ	VERB	VERB	Aspect=Perf	8	advcl	_	_
+7	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	6	expl	_	_
+8	ሟች	ሟች	ADJ	NOUN	Number=Sing	0	root	_	_
+9-10	ናት	_	_	_	_	_	_	_	_
+9	ን	ን	AUX	AUX	Tense=Pres	8	cop	_	_
+10	ኣት	ኣት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	8	expl	_	_
+11	።	።	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x25-s4
+# text = ዕቅዳችንን መለወጥ ይኖርብናል ።
+1-3	ዕቅዳችንን	_	_	_	_	_	_	_	_
+1	ዕቅድ	ዕቅድ	NOUN	NOUN	Number=Sing	4	obj	_	_
+2	ኣችን	ኣችን	PRON	POSM	Number=Plur|Person=1|Poss=Yes	1	nmod	_	_
+3	ን	ን	PART	ACC	_	1	case	_	_
+4	መለወጥ	መለወጥ	NOUN	NOUN	VerbForm=Inf	0	root	_	_
+5-9	ይኖርብናል	_	_	_	_	_	_	_	_
+5	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
+6	ኖር	ኖር	AUX	AUX	_	4	aux	_	_
+7	ብ	ብ	ADP	ADP	Case=Mal	4	case	_	_
+8	ን	ን	PRON	OBJC	Number=Plur|Person=1	4	expl	_	_
+9	ኣል	ኣል	AUX	AUX	Tense=Pres	4	aux	_	_
+10	።	።	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x01-s15
+# text = ካሳ አስቴር ወደ ትምህርት ቤት ስለሄደች ተደሰተ ።
+1	ካሳ	ካሳ	PROPN	PROPN	_	9	nsubj	_	_
+2	አስቴር	አስቴር	PROPN	PROPN	_	7	nsubj	_	_
+3	ወደ	ወደ	ADP	ADP	_	5	case	_	_
+4	ትምህርት	ትምህርት	NOUN	NOUN	Number=Sing	5	compound	_	_
+5	ቤት	ቤት	NOUN	NOUN	Number=Sing	7	advcl	_	_
+6-8	ስለሄደች	_	_	_	_	_	_	_	_
+6	ስለ	ስለ	SCONJ	SCONJ	_	7	mark	_	_
+7	ሄድ	ሄድ	VERB	VERB	Aspect=Perf	9	advcl	_	_
+8	ኧች	ኧች	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	7	expl	_	_
+9-10	ተደሰተ	_	_	_	_	_	_	_	_
+9	ተደሰት	ተደሰት	VERB	VERB	Aspect=Perf|Voice=Pass	0	root	_	_
+10	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	expl	_	_
+11	።	።	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x05-s12
+# text = ካሳ ትናንት ሁለት በጎች ገዛ ።
+1	ካሳ	ካሳ	PROPN	PROPN	_	5	nsubj	_	_
+2	ትናንት	ትናንት	ADV	ADV	_	5	advmod	_	_
+3	ሁለት	ሁለት	NUM	NUM	_	4	nummod	_	_
+4	በጎች	በጎች	NOUN	NOUN	Number=Plur	5	obj	_	_
+5-6	ገዛ	_	_	_	_	_	_	_	_
+5	ገዛ	ገዛ	VERB	VERB	Aspect=Perf	0	root	_	_
+6	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	5	expl	_	_
+7	።	።	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x18-s17
+# text = ብዙዎችን ለማስተማርሳ ምን ዘዴ አገኛለሁ ?
+1-2	ብዙዎችን	_	_	_	_	_	_	_	_
+1	ብዙዎች	ብዙዎች	ADJ	ADJ	Number=Plur	4	obj	_	_
+2	ን	ን	PART	ACC	_	1	case	_	_
+3-5	ለማስተማርሳ	_	_	_	_	_	_	_	_
+3	ለ	ለ	ADP	ADP	_	4	case	_	_
+4	ማስተማር	ማስተማር	NOUN	NOUN	VerbForm=Inf	9	obl	_	_
+5	ሳ	ሳ	CCONJ	CCONJ	_	4	cc	_	_
+6	ምን	ምን	PRON	PRON	_	7	nmod	_	_
+7	ዘዴ	ዘዴ	NOUN	NOUN	Number=Sing	8	xcomp	_	_
+8-11	አገኛለሁ	_	_	_	_	_	_	_	_
+8	እ	እ	PRON	SUBJC	Number=Sing|Person=1	9	nsubj	_	_
+9	አገኝ	አገኝ	VERB	VERB	Aspect=Imp|Voice=Trans	0	root	_	_
+10	ኣል	ኣል	AUX	AUX	Tense=Pres	9	aux	_	_
+11	ኧሁ	ኧሁ	PRON	SUBJC	Number=Sing|Person=1	9	nsubj	_	_
+12	?	?	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = data_UD-third_apple_2-x20-s12
+# text = ተፈላጊው የት አለ ?
+1-2	ተፈላጊው	_	_	_	_	_	_	_	_
+1	ተፈላጊ	ተፈላጊ	NOUN	NOUN	Number=Sing	4	nsubj	_	_
+2	ው	ው	DET	DET	_	1	det	_	_
+3	የት	የት	PRON	PRON	_	4	advmod	_	_
+4-5	አለ	_	_	_	_	_	_	_	_
+4	አል	አል	VERB	VERB	Aspect=Perf	0	root	_	_
+5	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	_
+6	?	?	PUNCT	PUNCT	_	4	punct	_	_
+
